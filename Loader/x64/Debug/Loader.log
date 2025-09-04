@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Adrian\Desktop\Hacking\Malware\Loader\Loader\Source.cpp(30,12): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\Adrian\Desktop\Hacking\Malware\Loader\Loader\Source.cpp(30,12):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\Adrian\Desktop\Hacking\Malware\Loader\Loader\Source.cpp(42,12): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\Adrian\Desktop\Hacking\Malware\Loader\Loader\Source.cpp(42,12):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\Adrian\Desktop\Hacking\Malware\Loader\Loader\Source.cpp(46,12): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\Adrian\Desktop\Hacking\Malware\Loader\Loader\Source.cpp(46,12):
+      considere el uso de ' %zd' en la cadena de formato
+  
+  Loader.vcxproj -> C:\Users\Adrian\Desktop\Hacking\Malware\Loader\x64\Debug\Loader.exe
